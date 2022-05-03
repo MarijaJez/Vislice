@@ -1,2 +1,4 @@
 # Vislice
-Poskus projektne naloge mkmk
+Poskus projektne naloge.
+
+To je najtemačnejša otroška igra.
